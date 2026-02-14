@@ -9,7 +9,7 @@ Below are the repository links of each services
 5. API Gateway       - https://github.com/GowthamThangamuthu/APIGateway-2025
 6. Service Discovery - https://github.com/GowthamThangamuthu/Service-Discovery2025
 
-Architectural Diagram : https://drive.google.com/file/d/1hWB2G8rUQTWUVRDXUtKyuA2FNfGTwYB8/view?usp=sharing
+Architectural Diagram : https://drive.google.com/file/d/1MjtBcH1xvnrtADH00obwZP9aQnCJTKfM/view?usp=drive_link
 
 Tech Stack:
 Backend: Spring Boot, Spring Cloud (Eureka, API Gateway)
